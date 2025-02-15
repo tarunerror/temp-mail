@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/tarunerror/temp-mail/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/tarunerror/tempmail?style=social)](https://github.com/tarunerror/temp-mail)
 [![GitHub Issues](https://img.shields.io/github/issues/tarunerror/tempmail?style=flat-square)](https://github.com/tarunerror/tempmail/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/tarunerror/tempmail?style=flat-square)](https://github.com/tarunerror/tempmail/pulls)
